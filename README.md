@@ -15,7 +15,7 @@ To explore this project:
 Ensure you have Jupyter Notebook installed, or use Google Colab for an online environment.
 
 Clone this repository to your local machine or download the .ipynb file directly.
-git clone https://github.com/CodCodingCode/Scam-Email-Idenfication-with-RFC.git
+git clone https://github.com/CodCodingCode/Scam_Email_Identification_using_RFC.ipynb.git
 
 Install the necessary Python packages:
 pip install numpy pandas scikit-learn matplotlib
